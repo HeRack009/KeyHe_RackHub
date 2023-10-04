@@ -1,3 +1,0 @@
-return {
-    "unfair" -- Key
-}
