@@ -1,1 +1,1 @@
-local a = "Hello"
+print("Home")
