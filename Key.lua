@@ -1,5 +1,5 @@
-local whitelists = {
+local dataname = {
   "No_Soa"
 }
 
-return whitelists
+return dataname
