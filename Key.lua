@@ -1,3 +1,4 @@
-return {
-    "ABVadklsad"
+local whitelists = {
+  "Roblox",
+  "Lol"
 }
