@@ -1,3 +1,3 @@
-return databasename = {
+return {
     "No_Soa"
 }
