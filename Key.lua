@@ -1,5 +1,5 @@
 local whitelists = {
-  "ASDAS"
+  "ABC"
 }
 
 return whitelists
