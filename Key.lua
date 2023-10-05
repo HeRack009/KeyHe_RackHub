@@ -1,5 +1,5 @@
 local whitelists = {
-  "ABC"
+  "No_Soa"
 }
 
 return whitelists
