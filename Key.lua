@@ -1,4 +1,5 @@
 local whitelists = {
-  "Roblox",
-  "Lol"
+  "ASDAS"
 }
+
+return whitelists
